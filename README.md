@@ -13,6 +13,7 @@ I've obtained some of the most recognized certifications in the industry:
 ## Check my projects
 
 - [Malware Development studies](https://github.com/s4mp0l/Malware-Development/)
+- [ShellcodeHider](https://github.com/s4mp0l/ShellcodeHider/)
 - [tModLoader RCE PoC](https://github.com/s4mp0l/tModLoader_RCE)
 - [SliverOps](https://github.com/s4mp0l/SliverOps)
 
@@ -21,6 +22,10 @@ I've obtained some of the most recognized certifications in the industry:
 I'm currently working on this project:
 
 - [Malware Development studies](https://github.com/s4mp0l/Malware-Development/)
+
+But I'm also creating other tools like this one:
+
+- [ShellcodeHider](https://github.com/s4mp0l/ShellcodeHider/)
 
 Practicing for the [CETP](https://www.alteredsecurity.com/evasionlab) and [OSEE](https://www.offsec.com/courses/exp-401/)
 
